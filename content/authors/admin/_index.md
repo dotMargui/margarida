@@ -6,19 +6,19 @@ title: Margarida Pedro
 superuser: true
 
 # Role/position
-role: Jurist 
+role: Jurist
 
 # Status emoji
 status:
-  icon: :books:
+  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
-- name: Cascais & Lidköping
+- name: Cascais | Lidköping
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jurist and Master's student in Administrative Law and Public Administration with a passion for programming and photography. 
+bio: Jurist and Master's student researching the implications of AI in public administration. Passionate about photography, cooking, and learning programming.
 
 #interests:
 #- Artificial Intelligence
@@ -44,8 +44,13 @@ bio: Jurist and Master's student in Administrative Law and Public Administration
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'margaridaolpe@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-
+  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/wowchemy
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/geocushen
 
 # Uncomment below for Github link
 #- icon: github
