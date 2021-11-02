@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: FDUL
+- name: Cascais & Lidköping
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
