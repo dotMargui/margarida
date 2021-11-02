@@ -21,21 +21,22 @@ organizations:
 bio: Jurist and Master's student researching the implications of AI in public administration. Passionate about photography, cooking, and learning programming.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Law
+- Photography
+- Programming
+- Bodybuilding
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: Bachelor's in Law
+    institution: FDUL
+    year: 2020
+  - course: Master's in Administrative Law and Public Administration
+    institution: FDUL
+    year: 2020-2022
+  - course: Intensive courses on topics such as European Administrative Law, Regulation of Energy Markets, and Corporate Governance
+    institution: GERI @FDUL
+    year: 2019-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
