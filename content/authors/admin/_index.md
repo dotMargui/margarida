@@ -25,6 +25,7 @@ interests:
 - Photography
 - Programming
 - Bodybuilding
+- Cooking
 
 education:
   courses:
