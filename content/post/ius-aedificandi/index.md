@@ -1,5 +1,5 @@
 ---
-title: Jus aedificandi - natureza, aquisição e tutela
+title: Jus aedificandi - natureza, aquisição e tutela [pt-pt]
 subtitle: Relatório para Direito do Urbanismo
 
 # Summary for listings and search engines
@@ -42,7 +42,8 @@ categories:
 - Trabalhos
 
 ---
-<div style="text-align: justify"> 
+<div style="text-align: justify">
+<div style="line-height:1.5">  
 
 **Resumo:** Neste trabalho, abordaremos o jus aedificadi (que inclui o direito de lotear, o direito de urbanizar e o direito de edificar) sob três perspectivas ou temas que, em bom rigor, são inseparáveis. Primeiro, faremos uma incursão sobre as diferentes teses quanto à natureza do _jus aedificandi_ e a sua inclusão ou não no conceito constitucional de direito de propriedade. Concluiremos que, enquanto atribuição jurídico-pública, o _jus aedificandi_ não goza do regime dos direitos, liberdades e garantias, estando quer a sua constituição, quer o seu exercício, dependentes de normas urbanísticas e, bem assim, de instrumentos de gestão territorial, com especial relevo para os planos territoriais. Tal não significa – como veremos no ponto seguinte do trabalho – que o _jus aedificandi_ decorra, imediata ou directamente, do plano. Argumentaremos que ele dependerá sempre da aprovação de todos os aspectos relevantes das operações urbanísticas a realizar em concreto, o que pode ocorrer em sede de procedimento de controlo prévio ou num momento anterior. Neste último caso, o proprietário terá, ainda assim, o dever de informar a Administração e de pagar as taxas devidas antes de realizar a operação ou obra. Com base nas distinções que faremos entre aquisição do _jus aedificandi_ ou aquisição de outros direitos (mediante actos constitutivos de direitos) e partindo da ideia de que aquela aquisição, à luz do direito vigente, é gradual e sucessiva, faremos uma análise da tutela indemnizatória conferida pelo sacrifício das faculdades que compõem o _jus aedificandi_ – distinguindo-a da tutela que se oferece a outras posições jurídicas favoráveis ou economicamente relevantes – à luz do RJIGT e do Código das Expropriações.
 
@@ -126,7 +127,7 @@ Vejamos agora um caso em que (ainda) não foi adquirido, verdadeiramente, jus ae
 O legislador parece então ter adoptado a posição defendida por Fernanda Paula Oliveira a propósito do anterior artigo 143.º, n.º 3 do RJIGT[^28]: uma vez que as normas dos planos também servem para criar confiança nos particulares, caso ocorra a alteração, revisão ou suspensão do plano dentro de um determinado prazo, aqueles devem ser indemnizados com base na protecção da confiança que fundaram na subsistência das disposições contidas no plano. O prazo será aquele que o legislador elegeu como sendo o de período de vigência normal mínimo do plano, pelo que a utilização de um mecanismo de dinâmica anterior ao fim desse prazo lesará o princípio da protecção da confiança. Parece-nos que é esta a interpretação mais correcta,mormente à luz do disposto no artigo 15.º da Lei de Bases, que consagra a aquisição sucessiva e gradual do jus aedificandi: tutela-se um direito que, não sendo aquele, é condição do mesmo. Partindo da mesma orientação, Fernanda Paula Oliveira alerta para o facto de, em consonância com aquele artigo 15.º, os casos de aplicação deste n.º 4 serem excepcionais: com a consagração do carácter gradual da aquisição do jus aedificandi, dificilmente se poderá afirmar que o proprietário terá um encargo ou dano anormal que conduza ao direito a ser indemnizado.
 
 
-### O Código das Expropriações e o jus aedificandi
+### b) O Código das Expropriações e o jus aedificandi
 
 De acordo com alguns autores, como José de Oliveira Ascensão e Marcelo Rebelo de Sousa[^29], o facto de o jus aedificandi relevar em sede de apuramento da indemnização na expropriação por utilidade pública significará que ele é considerado, pela lei, como inserido no direito de propriedade privada expropriada. Um primeiro comentário sobre a relação entre as disposições do CE e o jus aedificandi é que ela se mantém complexa em face da discrepância de regimes entre o CE por um lado, e o RJIGT e a Lei de Bases, por outro – complexidade que já existia, mas que se adensou com os novos critérios para a classificação do solo (que não são os mesmos plasmados no CE) e também com a consagração da aquisição gradual das faculdades urbanísticas no artigo 15.º, n.º 1 da Lei de Bases com a simultânea consagração no n.º 2 de que “A inexistência das faculdades urbanísticas referidas no número anterior não prejudica o disposto na lei em matéria de justa indemnização devida por expropriação”.
 
@@ -215,3 +216,5 @@ Faculdade de Direito da Universidade de São Paulo, n.o 49, 1954, pp. 838-839.
 [^32]: Vide F. P. O LIVEIRA, Direito do Urbanismo, pp. 163-168.
 
 [^33]:  F. P. OLIVEIRA, Regime Jurídico dos Instrumentos de Gestão Territorial Comentado, Almedina, 2017, p. 481.
+
+</div>
