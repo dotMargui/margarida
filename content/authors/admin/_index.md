@@ -51,7 +51,7 @@ social:
   link: https://www.linkedin.com/in/margaridaopedro/
 - icon: instagram
    icon_pack: fab
-  link: /home/margarida/Documentos/Blog/margarida/static/files/cv.pdf
+  link: https://media-exp1.licdn.com/dms/document/C4D2DAQH7vPst4xcTFg/profile-treasury-document-pdf-analyzed/0/1634841914023?e=1636016400&v=beta&t=9dLAxi28lD_orpjsx-RhEepFj06OEvPkhIGlbQomNNI
 
 # Uncomment below for Github link
 #- icon: github
