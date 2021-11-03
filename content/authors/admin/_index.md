@@ -49,9 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/margaridaopedro/
-#- icon: instagram
-#  icon_pack: fab
-#  link: https://instagram.com/geocushen
+- icon: cv
+   icon_pack: ai
+   link: static/updates/cv.pdf
 
 # Uncomment below for Github link
 #- icon: github
