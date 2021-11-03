@@ -49,7 +49,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/margaridaopedro/
-- icon: linkedin
+- icon: instagram
    icon_pack: fab
   link: /home/margarida/Documentos/Blog/margarida/static/files/cv.pdf
 
