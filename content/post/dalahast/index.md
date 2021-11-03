@@ -1,9 +1,9 @@
 ---
-title: Dalahäst store in Gamla Stan
-subtitle: We'll be adding more content soon!
+title: Dalahäst store, Gamla Stan
+subtitle: I'll be adding more content soon!
 
 # Summary for listings and search engines
-summary: We'll be adding more content soon!
+summary: I'll be adding more content soon!
 
 # Link this post with a project
 projects: []
@@ -35,14 +35,15 @@ authors:
 tags:
 - Photography
 - Stockholm
+- Street
 
 categories:
-- Demo
+- Photography
 
 ---
 
-## This is a title. 
+## Hello! 
 
-1. I'm working on adding more content soon. 
+1. I'm working on adding more content. 
 2. Doesn't it look beautiful already?
 
