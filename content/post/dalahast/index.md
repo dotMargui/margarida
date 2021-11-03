@@ -1,5 +1,5 @@
 ---
-title: Dalahäst store, Gamla Stan
+title: Dalahästar store, Gamla Stan
 subtitle: I'll be adding more content soon!
 
 # Summary for listings and search engines
