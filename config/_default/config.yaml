@@ -3,15 +3,15 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Margarida's blog # Website name
-baseurl: 'https://example.com/' # Website URL
+title: Margarida Pedro | Blog # Website name
+baseurl: 'https://margarida.life/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: pt-pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
