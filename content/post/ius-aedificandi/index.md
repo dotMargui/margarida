@@ -186,16 +186,13 @@ Faculdade de Direito da Universidade de São Paulo, n.o 49, 1954, pp. 838-839.
 
 [^18]: J. MIRANDA, A dinâmica jurídica do planeamento territorial, Coimbra, 2002, pp. 300-304.
 
-[^19]: F. P. OLIVEIRA , Direito do Urbanismo. Do Planeamento à Gestão, 3.ª edição reimp., Braga,
-AEDREL, 2019, p. 235.
+[^19]: F. P. OLIVEIRA , Direito do Urbanismo. Do Planeamento à Gestão, 3.ª edição reimp., Braga,AEDREL, 2019, p. 235.
 
 [^20]: No mesmo sentido, ibidem, p. 292
 
-[^21]: Cf. F. P. OLIVEIRA, Direito do Urbanismo. Do Planeamento à Gestão, Suplemento à 2.ª reimpressão
-da 3.ª edição atualizada e ampliada de 2018, Braga, AEDREL, 2019, pp. 31-32.
+[^21]: Cf. F. P. OLIVEIRA, Direito do Urbanismo. Do Planeamento à Gestão, Suplemento à 2.ª reimpressão da 3.ª edição atualizada e ampliada de 2018, Braga, AEDREL, 2019, pp. 31-32.
 
-[^22]: No mesmo sentido, F. P. OLIVEIRA, M. J. CASTANHEIRA NEVES, D. LOPES , Regime Jurídico da
-Urbanização e Edificação Comentado, 4.ª edição reimp., Coimbra, Almedina, 2018, pp. 126-127.
+[^22]: No mesmo sentido, F. P. OLIVEIRA, M. J. CASTANHEIRA NEVES, D. LOPES , Regime Jurídico da Urbanização e Edificação Comentado, 4.ª edição reimp., Coimbra, Almedina, 2018, pp. 126-127.
 
 [^23]:  F. P. OLIVEIRA, Direito do Urbanismo. Do Planeamento à Gestão, Suplemento, pp. 30 ss. 
 
