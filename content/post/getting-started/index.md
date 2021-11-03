@@ -1,18 +1,18 @@
 ---
-title: Dalarna häst shop in Stockholm
-subtitle: More content soon!
+title: Dalahäst store in Gamla Stan
+subtitle: We'll be adding more content soon!
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: We'll be adding more content soon!
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2021-10-31"
+date: "2020-12-13T00:00:00Z"
 
 # Date updated
-lastmod: "2021-1o-31"
+lastmod: "2020-12-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Margarida Pedro
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -34,7 +34,6 @@ authors:
 
 tags:
 - Photography
-- Sweden
 - Stockholm
 
 categories:
@@ -42,5 +41,8 @@ categories:
 
 ---
 
-Just a picture in Stockholm. 
+## This is a title. 
+
+1. I'm working on adding more content soon. 
+2. Doesn't it look beautiful already?
 
