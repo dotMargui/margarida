@@ -43,13 +43,17 @@ categories:
 
 ---
 <div style="text-align: justify"> 
+
 **Resumo:** Neste trabalho, abordaremos o jus aedificadi (que inclui o direito de lotear, o direito de urbanizar e o direito de edificar) sob três perspectivas ou temas que, em bom rigor, são inseparáveis. Primeiro, faremos uma incursão sobre as diferentes teses quanto à natureza do _jus aedificandi_ e a sua inclusão ou não no conceito constitucional de direito de propriedade. Concluiremos que, enquanto atribuição jurídico-pública, o _jus aedificandi_ não goza do regime dos direitos, liberdades e garantias, estando quer a sua constituição, quer o seu exercício, dependentes de normas urbanísticas e, bem assim, de instrumentos de gestão territorial, com especial relevo para os planos territoriais. Tal não significa – como veremos no ponto seguinte do trabalho – que o _jus aedificandi_ decorra, imediata ou directamente, do plano. Argumentaremos que ele dependerá sempre da aprovação de todos os aspectos relevantes das operações urbanísticas a realizar em concreto, o que pode ocorrer em sede de procedimento de controlo prévio ou num momento anterior. Neste último caso, o proprietário terá, ainda assim, o dever de informar a Administração e de pagar as taxas devidas antes de realizar a operação ou obra. Com base nas distinções que faremos entre aquisição do _jus aedificandi_ ou aquisição de outros direitos (mediante actos constitutivos de direitos) e partindo da ideia de que aquela aquisição, à luz do direito vigente, é gradual e sucessiva, faremos uma análise da tutela indemnizatória conferida pelo sacrifício das faculdades que compõem o _jus aedificandi_ – distinguindo-a da tutela que se oferece a outras posições jurídicas favoráveis ou economicamente relevantes – à luz do RJIGT e do Código das Expropriações.
 
+
 **Palavras-chave**: direito do urbanismo, planos territoriais, jus aedificandi, direito de propriedade, indemnização
+
 
 ## Introdução
 
 O nosso trabalho versará sobre uma _vexata quaestio_ do Direito do Urbanismo: o _jus aedificandi_. Começaremos a nossa análise pelo tema mais controverso: a natureza deste direito, procurando saber se ele é ou não inerente ao direito de propriedade e, nesses termos, tutelado enquanto direito fundamental análogo aos direitos, liberdades e garantias. De seguida e com base nas conclusões que daí retirarmos, realizaremos uma análise do regime vigente que nos permita, primeiro, conhecer através de que actos jurídico-públicos é atribuído o _jus aedificandi_ ao proprietário e, segundo, apreciar de que forma este direito é tutelado uma vez incorporado na esfera jurídica daquele, procurando distinguir a tutela das faculdades urbanísticas, incluídas no _jus aedificandi_, da tutela das legítimas expectativas fundadas no plano. Nesse sentido, faremos uma análise escalonada do _jus aedificandi_: não é possível chegar a conclusões sólidas sobre a sua aquisição sem o auxílio das considerações feitas quanto à sua natureza e, bem assim, a interpretação da tutela indemnizatória não será frutífera sem primeiro se descobrir que actos constitutivos de direitos atribuem o _jus aedificandi_ e que outros actos jurídico-públicos, em sentido amplo, atribuem outros direitos ou meras expectativas, ainda que legítimas.
+
 
 ## O conteúdo urbanístico da propriedade do solo na Constituição da República Portuguesa
 
@@ -82,6 +86,7 @@ Reconhecemos que nem em todos os Acórdãos o Tribunal se posiciona de forma tã
 
 Em suma, parece-nos actualmente inegável que o jus aedificandi não é inerente ao direito de propriedade: é uma faculdade que poderá ser atribuída ao proprietário, através de um acto jurídico-público, e cuja atribuição deverá reflectir outros direitos e interesses em jogo – precisamente aqueles referidos pelo texto constitucional e, em particular, os interesses públicos que, em concreto, as entidades planeadoras devam prosseguir. Assim, enquanto conjunto de faculdades cuja existência e exercício se encontram condicionadas, em particular, pelo planeamento e gestão urbanísticos, o jus aedificandi não beneficia do regime dos direitos, liberdades e garantias que é aplicável ao conteúdo essencial direito de propriedade nos termos do artigo 17.o da CRP. Por isso, parece-nos procedente a afirmação de o que o objecto do direito de propriedade não é já o solo, mas sim o solo planificado[^16].
 
+
 ## Como é atribuído o jus aedificandi?
 
 A conclusão a que chegámos no capítulo anterior não nos diz, contudo, através de que acto jurídico-público é que o jus aedificandi nasce na esfera jurídica do proprietário. Embora o jus aedificandi não seja inerente, como vimos, ao direito de propriedade, ele pode ser adquirido pelo titular daquele direito: mas sê-lo-á directamente através de um plano municipal – em particular do PDM, nos termos do artigo 95.º, n.º 1 RJIGT – ou através da aprovação de projectos concretos? À luz das normas vigentes, parece-nos que é esta última orientação a mais acertada.
@@ -104,9 +109,11 @@ Já nos casos em que se tenha de percorrer o iter do procedimento de licenciamen
 
 Por fim, é de considerar que, à luz do direito vigente, inexiste uma relação entre a concepção que se adopte quanto ao jus aedificandi (por relação ao direito de propriedade) e a classificação dos actos de controlo enquanto autorização-licença; a forma de arrumar os actos de controlo nessa categoria depende, como vimos, da existência ou não de um determinado grau de densificação dos termos e condições da operação urbanística em momento anterior (ou da antecipação do juízo que, normalmente, só se faria em sede de procedimento de licença) e não da natureza do jus aedificandi, que não deixa de resultar de uma atribuição jurídico-pública.
 
+
 ## A tutela indemnizatória e o _ius aedificandi_ 
 
 Como afirma Sofia Galvão[^26], a partir do momento em que o jus aedificandi passa a integrar a esfera jurídica patrimonial do proprietário, nos termos que vimos supra, passa a ser objecto de protecção e merecedor de tutela legal efectiva, originando uma actuação que o elimine ou diminua o dever de indemnizar. No entanto, nem sempre é fácil distinguir a tutela do jus aedificandi da tutela que se atribui ao direito ao aproveitamento urbanístico decorrente do plano, em especial das tarefas que estabelecem o regime do uso do solo.
+
 
 ### a) Artigo 171.º, n.º 2, 3 e 4 RJIGT
 
@@ -117,6 +124,7 @@ Visto o carácter subsidiário da indemnização, vejamos agora em que casos é 
 Vejamos agora um caso em que (ainda) não foi adquirido, verdadeiramente, jus aedificandi, mas em que pode haver lugar a indemnização. Afirmámos que o plano não é suficiente para a afirmar a constituição, na esfera jurídica do proprietário, do jus edificandi. Como explicar, então, o que se dispõe no n.º 4? Afirma-se, nessa disposição, que são também indemnizáveis as restrições especiais às possibilidades objectivas de aproveitamento do solo, resultantes da alteração, revisão ou suspensão de um plano territorial, desde que importem danos anormais e ocorram no prazo de três anos após a entrada em vigor do plano em causa. Quererá isso dizer que existe, afinal, um direito a edificar decorrente do plano? Pensamos que a resposta deve ser negativa: uma vez que a disposição em causa se refere expressamente à protecção do princípio da confiança, tal significa que a indemnização é devida independentemente de existir um direito consolidado, bastando uma expectativa legítima (ou um direito enfraquecido) que, ainda assim, se tem de ancorar em elementos objectivos. Parece-nos assim que ratio legis é a de proteger os particulares quando as disposições do plano em causa tenham tido uma vigência de tal forma curta ou volátil que seria contrário ao princípio da protecção da confiança – e por isso ao princípio da segurança jurídica, inseparável do princípio do Estado de Direito – não indemnizar.
 
 O legislador parece então ter adoptado a posição defendida por Fernanda Paula Oliveira a propósito do anterior artigo 143.º, n.º 3 do RJIGT[^28]: uma vez que as normas dos planos também servem para criar confiança nos particulares, caso ocorra a alteração, revisão ou suspensão do plano dentro de um determinado prazo, aqueles devem ser indemnizados com base na protecção da confiança que fundaram na subsistência das disposições contidas no plano. O prazo será aquele que o legislador elegeu como sendo o de período de vigência normal mínimo do plano, pelo que a utilização de um mecanismo de dinâmica anterior ao fim desse prazo lesará o princípio da protecção da confiança. Parece-nos que é esta a interpretação mais correcta,mormente à luz do disposto no artigo 15.º da Lei de Bases, que consagra a aquisição sucessiva e gradual do jus aedificandi: tutela-se um direito que, não sendo aquele, é condição do mesmo. Partindo da mesma orientação, Fernanda Paula Oliveira alerta para o facto de, em consonância com aquele artigo 15.º, os casos de aplicação deste n.º 4 serem excepcionais: com a consagração do carácter gradual da aquisição do jus aedificandi, dificilmente se poderá afirmar que o proprietário terá um encargo ou dano anormal que conduza ao direito a ser indemnizado.
+
 
 ### O Código das Expropriações e o jus aedificandi
 
@@ -130,20 +138,24 @@ Note-se ainda que em face dos novos critérios para classificação do solo como
 
 Por sua vez, a alínea d) do n.º 2 do artigo 25.º é a que se encontra em maior consonância com o restante regime legal, pois ela concede tutela indemnizatória ao proprietário que já possui, na sua esfera jurídico-patrimonial, um direito consolidado. É nesta norma que se encontra, no âmbito do Código das Expropriações e da fixação da justa indemnização, o reconhecimento do jus aedificandi enquanto direito e realidade economicamente relevante, e portanto protegido pela garantia expropriatória do disposto no artigo 62.º, n.º 2 da Constituição. Com excepção desta norma, a desarticulação dos regimes é por isso evidente e agravada pelo facto de a expropriação constituir também um instrumento de execução dos planos: pense-se no caso de o município ter delimitado uma unidade de execução. Caso um proprietário se recuse a entrar na unidade de execução, poderá existir fundamento para a proceder à expropriação (que terá de assentar na identificação e justificação do interesse público que baseia a declaração de utilidade pública[^32]), mormente nos casos em que aquela intervenção integrada se mostre indispensável do ponto de vista do município (vide os artigos 151.º e 159.º RJIGT). Ora, tal desarticulação propicia situações em que o valor do solo para efeitos do CE é um e para efeitos da execução dos planos poderá ser outro – por via do disposto no artigo 67.º da Lei de Bases – o que poderá redundar no efeito que o legislador pretendeu evitar com a consagração dos novos critérios de classificação do solo: precisamente o de conceder uma “renda” ao proprietário inactivo, que nada fez para a obter, premiando-o[^33].
 
+
 ## Conclusão
 
 A questão da natureza do jus aedificandi e da sua inerência ao direito de propriedade constitui um problema jurídico a ser resolvido à luz da Constituição, sendo forçosa a conclusão de que os direitos de lotear, de urbanizar e de edificar não só não fazem parte, a priori, do direito de propriedade, como resultam de uma atribuição jurídico-pública, com grande relevância para as normas que regulam o Direito do Urbanismo. Apesar de esta questão constituir uma vexata quaestio, ela não deixa de ser dotada de relevância prática e, portanto, uma vez descoberta a resposta da Lei Fundamental, cumpre ver como ela encontra respaldo na lei ordinária. Nesse sentido, procurámos saber a partir de que actos pode o proprietário vir a adquirir as faculdades urbanísticas que compõem o jus aedificandi, tendo concluído que, à luz da lei, essa aquisição é escalonada e gradual, atingido o seu estádio último de consolidação com a licença (caso em que se está perante uma verdadeira autorização-licença) ou com a apresentação de mera comunicação prévia, nos casos em que o juízo a realizar para a Administração em sede de procedimento de licenciamento foi antecipado e realizado num momento anterior. Do que se expôs decorre igualmente que a aquisição do jus aedificandi não é uma mera decorrência do plano e que, mesmo no caso de ser aprovado um plano de pormenor com efeitos registais, o proprietário tem sempre de cumprir os deveres associados à comunicação prévia antes de poder realizar determinadas operações urbanísticas.
 
 Não obstante, os planos conferem, pelo menos, expectativas legítimas (ou um direito ao aproveitamento urbanístico) que se apresentam merecedoras de tutela, nomeadamente indemnizatória. Não há, no entanto, que confundir esta realidade com a tutela que se confere ao jus aedificandi quando este já integra o direito de propriedade em concreto: embora a distinção nem sempre seja fácil – mormente no caso do Código das Expropriações – é possível delineá-la, o que tentámos fazer socorrendo-nos não só dos dados constitucionais a que chegámos, mas também de uma interpretação sistemática e teleológica dos diversos regimes, que devem ser devidamente conjugados.
 
+</div>
+
+
+**Notas**
 [^1]: Cf. D. FREITAS DO AMARAL, “Apreciação da Dissertação de Doutoramento do Licenciado Fernando Alves Correia «O Plano Urbanístico e o Princípio da Igualdade»”, Revista da Faculdade de Direito da Universidade de Lisboa, Vol. XXXII, 1991, pp. 99-101.
 
 [^2]: J. OLIVEIRA ASCENSÃO, “O urbanismo e o direito de propriedade” in D. Freitas do Amaral (coord.), Direito do Urbanismo, Instituto Nacional de Administração, 1989, p. 321 ss.
 
 [^3]: C. BLANCO DE MORAIS, Curso de Direito Constitucional, Tomo I, 2.ª edição, Coimbra, 2012, p. 173.
 
-[^4]: No mesmo sentido, M. ESTEVES DE OLIVEIRA, O direito de propriedade e o jus aedificandi no direito
-português, Revista Jurídica do Urbanismo e do Ambiente, n.º 3, 1995, p. 190.
+[^4]: No mesmo sentido, M. ESTEVES DE OLIVEIRA, O direito de propriedade e o jus aedificandi no direito português, Revista Jurídica do Urbanismo e do Ambiente, n.º 3, 1995, p. 190.
 
 [^5]: Para um estudo aprofundado dessas restrições no Direito Romano, C. MONTEIRO, O Domínio da Cidade. A Propriedade à Prova no Direito do Urbanismo, Faculdade de Direito da Universidade de Lisboa, 2010, pp. 51-67.
 
@@ -206,4 +218,3 @@ Urbanização e Edificação Comentado, 4.ª edição reimp., Coimbra, Almedina,
 [^32]: Vide F. P. O LIVEIRA, Direito do Urbanismo, pp. 163-168.
 
 [^33]:  F. P. OLIVEIRA, Regime Jurídico dos Instrumentos de Gestão Territorial Comentado, Almedina, 2017, p. 481.
-</div>
