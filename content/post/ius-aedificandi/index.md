@@ -55,7 +55,7 @@ O nosso trabalho versará sobre uma _vexata quaestio_ do Direito do Urbanismo: o
 
 # O conteúdo urbanístico da propriedade do solo na Constituição da República Portuguesa
 
-A natureza do jus aedificandi – do direito de lotear, de urbanizar e de edificar – é amplamente debatida pela doutrina em Portugal. A questão, em termos sucintos, é esta:será que o direito de propriedade privada inclui aqueles direitos (ou faculdades) como suas componentes essenciais? A este respeito, podem ser apontadas duas teses principais. A primeira, normalmente denominada de civilista ou privatística, é a de que o jus aedificandi é uma faculdade inerente ao direito de propriedade e também imediatamente tutelado pelo âmbito de protecção do artigo 62.o da Lei Fundamental. A segunda orientação é a de que tal direito resulta de uma concessão jurídico-pública e, por isso, não é inerente ao direito de propriedade, consistindo antes numa faculdade que acrescerá, eventualmente, à esfera jurídica do proprietário.
+A natureza do jus aedificandi – do direito de lotear, de urbanizar e de edificar – é amplamente debatida pela doutrina em Portugal. A questão, em termos sucintos, é esta:será que o direito de propriedade privada inclui aqueles direitos (ou faculdades) como suas componentes essenciais? A este respeito, podem ser apontadas duas teses principais. A primeira, normalmente denominada de civilista ou privatística, é a de que o jus aedificandi é uma faculdade inerente ao direito de propriedade e também imediatamente tutelado pelo âmbito de protecção do artigo 62.º da Lei Fundamental. A segunda orientação é a de que tal direito resulta de uma concessão jurídico-pública e, por isso, não é inerente ao direito de propriedade, consistindo antes numa faculdade que acrescerá, eventualmente, à esfera jurídica do proprietário.
 
 Para Diogo Freitas do Amaral, que se filia na primeira concepção, a resposta à questão que ora nos ocupa está nos artigos 1524.º e seguintes do Código Civil[^1]: ao garantir o direito de superfície – que permite a construção ou plantação em terreno alheio, mediante contrato – a lei estaria a dizer, implicitamente, que o proprietário do solo é titular de um direito de construir, pois só assim é que ele o poderá ceder a outrem.
 
@@ -139,3 +139,72 @@ A questão da natureza do jus aedificandi e da sua inerência ao direito de prop
 Não obstante, os planos conferem, pelo menos, expectativas legítimas (ou um direito ao aproveitamento urbanístico) que se apresentam merecedoras de tutela, nomeadamente indemnizatória. Não há, no entanto, que confundir esta realidade com a tutela que se confere ao jus aedificandi quando este já integra o direito de propriedade em concreto: embora a distinção nem sempre seja fácil – mormente no caso do Código das Expropriações – é possível delineá-la, o que tentámos fazer socorrendo-nos não só dos dados constitucionais a que chegámos, mas também de uma interpretação sistemática e teleológica dos diversos regimes, que devem ser devidamente conjugados.
 
 [¹]: Cf. D. FREITAS DO AMARAL, “Apreciação da Dissertação de Doutoramento do Licenciado Fernando Alves Correia «O Plano Urbanístico e o Princípio da Igualdade»”, Revista da Faculdade de Direito da Universidade de Lisboa, Vol. XXXII, 1991, pp. 99-101.
+
+[²]: J. OLIVEIRA ASCENSÃO, “O urbanismo e o direito de propriedade” in D. Freitas do Amaral (coord.), Direito do Urbanismo, Instituto Nacional de Administração, 1989, p. 321 ss.
+
+[³]: C. BLANCO DE MORAIS, Curso de Direito Constitucional, Tomo I, 2.ª edição, Coimbra, 2012, p. 173.
+
+[⁴]: No mesmo sentido, M. ESTEVES DE OLIVEIRA, O direito de propriedade e o jus aedificandi no direito
+português, Revista Jurídica do Urbanismo e do Ambiente, n.º 3, 1995, p. 190.
+
+[⁵]: Para um estudo aprofundado dessas restrições no Direito Romano, C. MONTEIRO, O Domínio da Cidade. A Propriedade à Prova no Direito do Urbanismo, Faculdade de Direito da Universidade de Lisboa, 2010, pp. 51-67.
+
+[⁶]: F. ALVES CORREIA, Manual de Direito do Urbanismo, Vol. I, 3.ª edição, Almedina, 2006, pp. 714-715.
+
+[⁷]: M. ESTEVES DE OLIVEIRA , “O direito de propriedade e o jus aedificandi no direito português”, in Revista Jurídica do Urbanismo e do Ambiente, n.º 3, 1995, pp. 194-199.
+
+[⁸]: M. LOBO DA COSTA, “A propriedade na doutrina de Duguit (Exposição e Crítica)”, Revista da
+Faculdade de Direito da Universidade de São Paulo, n.o 49, 1954, pp. 838-839.
+
+[⁹]: Cf. C. AMADO GOMES, “Reflexões (a quente) sobre o princípio da função social da propriedade”, e-Pública, Vol. IV, n.º 3, 2017, disponível em: https://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S2183-184X2017000300002 e R. JELINEK, O princípio da função social da propriedade e sua repercussão sobre o sistema do Código Civil, 2006, pp. 13-23, disponível em: https://www.mprs.mp.br/media/areas/urbanistico/arquivos/rochelle.pdf
+
+[^10]: J. MIRANDA, Manual de Direito Constitucional, Tomo IV, Direitos Fundamentais, 3.ª edição, Coimbra, 2000, pp. 526-529.
+
+[^11]: C. MONTEIRO, O Domínio, p. 187.
+
+[^12]: Ibidem, p. 222.
+
+[^13]: C. MONTEIRO, “A garantia constitucional do direito de propriedade privada e o sacrifício de faculdades urbanísticas”, in Cadernos de Justiça Administrativa, n.º 91, 2012, p. 5-8.
+
+[^14]: Vide, por exemplo, os Ac. do TC n.o 602/99 e 544/01.
+
+[^15]: V. Ac. do TC n.o 341/86.
+
+[^16]: F. ALVES CORREIA, O plano urbanístico e o princípio da igualdade, Almedina, 1989, p. 332. No mesmo sentido, J. M. SARDINHA, “Contributos para a caracterização jurídico-administrativa do direito de propriedade privada do solo urbano na Lei de bases gerais da política pública de solos, de ordenamento do território e de urbanismo” in M. R EBELO DE SOUSA, E. VERA-CRUZ PINTO (coord.), Liber amicorum Fausto de Quadros, Vol. 2, Coimbra, 2016, pp. 110-114.
+
+[^17]: C. MONTEIRO, O Domínio, p. 249.
+
+[^18]: J. MIRANDA, A dinâmica jurídica do planeamento territorial, Coimbra, 2002, pp. 300-304.
+
+[^19]: F. P. OLIVEIRA , Direito do Urbanismo. Do Planeamento à Gestão, 3.ª edição reimp., Braga,
+AEDREL, 2019, p. 235.
+
+[^20]: No mesmo sentido, ibidem, p. 292
+
+[^21]: Cf. F. P. OLIVEIRA, Direito do Urbanismo. Do Planeamento à Gestão, Suplemento à 2.ª reimpressão
+da 3.ª edição atualizada e ampliada de 2018, Braga, AEDREL, 2019, pp. 31-32.
+
+[^22]: No mesmo sentido, F. P. OLIVEIRA, M. J. CASTANHEIRA NEVES, D. LOPES , Regime Jurídico da
+Urbanização e Edificação Comentado, 4.ª edição reimp., Coimbra, Almedina, 2018, pp. 126-127.
+
+[^23]:  F. P. OLIVEIRA, Direito do Urbanismo. Do Planeamento à Gestão, Suplemento, pp. 30 ss. 
+
+[^24]: F. P. OLIVEIRA, Direito do Urbanismo, pp. 258-559.
+
+[^25]: Cf. artigo 24.o, n.o 2, alínea b) e n.o 4.
+
+[^26]: S. SEQUEIRA GALVÃO, “Jus aedificandi, natureza versus protecção constitucional – equívocos reiterados”, in Cadernos de Justiça Administrativa, n.º 44, 2004, pp. 12-16.
+
+[^27]: Vide J. PEREIRA REIS, “Contratos para planeamento e os efeitos registais dos planos de pormenor: dois instrumentos facilitadores da promoção/construção imobiliária”, in Edificando, AICE, 2009, pp. 28-29, disponível em https://www.mlgts.pt/xms/files/v1/Publicacoes/Artigos/568.pdf.
+
+[^28]: Vide F. P. OLIVEIRA, “O direito de edificar: dado ou simplesmente admitido pelo plano?”, in Cadernos de Justiça Administrativa, n.º 43, 2004, pp. 56-57.
+
+[^29]: M. REBELO DE SOUSA, “Parecer sobre a constitucionalidade das normas constantes do Decreto-Lei n.º 351/93, de 7 de Outubro”, Revista Jurídica do Urbanismo e do Ambiente, n.º 1, 1994, pp. 144-146.
+
+[^30]: C. MONTEIRO, O Domínio, p. 257.
+
+[^31]: Cf. F. P. OLIVEIRA, Direito do Urbanismo, pp. 111-115.
+
+[^32]: Vide F. P. O LIVEIRA, Direito do Urbanismo, pp. 163-168.
+
+[^33]:  F. P. OLIVEIRA, Regime Jurídico dos Instrumentos de Gestão Territorial Comentado, Almedina, 2017, p. 481.
