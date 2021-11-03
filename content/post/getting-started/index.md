@@ -9,10 +9,10 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-10-31"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-1o-31"
 
 # Is this an unpublished draft?
 draft: false
@@ -42,4 +42,5 @@ categories:
 
 ---
 
+Just a picture in Stockholm. 
 
