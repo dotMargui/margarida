@@ -138,25 +138,25 @@ A questão da natureza do jus aedificandi e da sua inerência ao direito de prop
 
 Não obstante, os planos conferem, pelo menos, expectativas legítimas (ou um direito ao aproveitamento urbanístico) que se apresentam merecedoras de tutela, nomeadamente indemnizatória. Não há, no entanto, que confundir esta realidade com a tutela que se confere ao jus aedificandi quando este já integra o direito de propriedade em concreto: embora a distinção nem sempre seja fácil – mormente no caso do Código das Expropriações – é possível delineá-la, o que tentámos fazer socorrendo-nos não só dos dados constitucionais a que chegámos, mas também de uma interpretação sistemática e teleológica dos diversos regimes, que devem ser devidamente conjugados.
 
-[¹]: Cf. D. FREITAS DO AMARAL, “Apreciação da Dissertação de Doutoramento do Licenciado Fernando Alves Correia «O Plano Urbanístico e o Princípio da Igualdade»”, Revista da Faculdade de Direito da Universidade de Lisboa, Vol. XXXII, 1991, pp. 99-101.
+[^1]: Cf. D. FREITAS DO AMARAL, “Apreciação da Dissertação de Doutoramento do Licenciado Fernando Alves Correia «O Plano Urbanístico e o Princípio da Igualdade»”, Revista da Faculdade de Direito da Universidade de Lisboa, Vol. XXXII, 1991, pp. 99-101.
 
-[²]: J. OLIVEIRA ASCENSÃO, “O urbanismo e o direito de propriedade” in D. Freitas do Amaral (coord.), Direito do Urbanismo, Instituto Nacional de Administração, 1989, p. 321 ss.
+[^2]: J. OLIVEIRA ASCENSÃO, “O urbanismo e o direito de propriedade” in D. Freitas do Amaral (coord.), Direito do Urbanismo, Instituto Nacional de Administração, 1989, p. 321 ss.
 
-[³]: C. BLANCO DE MORAIS, Curso de Direito Constitucional, Tomo I, 2.ª edição, Coimbra, 2012, p. 173.
+[^3]: C. BLANCO DE MORAIS, Curso de Direito Constitucional, Tomo I, 2.ª edição, Coimbra, 2012, p. 173.
 
-[⁴]: No mesmo sentido, M. ESTEVES DE OLIVEIRA, O direito de propriedade e o jus aedificandi no direito
+[^4]: No mesmo sentido, M. ESTEVES DE OLIVEIRA, O direito de propriedade e o jus aedificandi no direito
 português, Revista Jurídica do Urbanismo e do Ambiente, n.º 3, 1995, p. 190.
 
-[⁵]: Para um estudo aprofundado dessas restrições no Direito Romano, C. MONTEIRO, O Domínio da Cidade. A Propriedade à Prova no Direito do Urbanismo, Faculdade de Direito da Universidade de Lisboa, 2010, pp. 51-67.
+[^5]: Para um estudo aprofundado dessas restrições no Direito Romano, C. MONTEIRO, O Domínio da Cidade. A Propriedade à Prova no Direito do Urbanismo, Faculdade de Direito da Universidade de Lisboa, 2010, pp. 51-67.
 
-[⁶]: F. ALVES CORREIA, Manual de Direito do Urbanismo, Vol. I, 3.ª edição, Almedina, 2006, pp. 714-715.
+[^6]: F. ALVES CORREIA, Manual de Direito do Urbanismo, Vol. I, 3.ª edição, Almedina, 2006, pp. 714-715.
 
-[⁷]: M. ESTEVES DE OLIVEIRA , “O direito de propriedade e o jus aedificandi no direito português”, in Revista Jurídica do Urbanismo e do Ambiente, n.º 3, 1995, pp. 194-199.
+[^7]: M. ESTEVES DE OLIVEIRA , “O direito de propriedade e o jus aedificandi no direito português”, in Revista Jurídica do Urbanismo e do Ambiente, n.º 3, 1995, pp. 194-199.
 
-[⁸]: M. LOBO DA COSTA, “A propriedade na doutrina de Duguit (Exposição e Crítica)”, Revista da
+[^8]: M. LOBO DA COSTA, “A propriedade na doutrina de Duguit (Exposição e Crítica)”, Revista da
 Faculdade de Direito da Universidade de São Paulo, n.o 49, 1954, pp. 838-839.
 
-[⁹]: Cf. C. AMADO GOMES, “Reflexões (a quente) sobre o princípio da função social da propriedade”, e-Pública, Vol. IV, n.º 3, 2017, disponível em: https://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S2183-184X2017000300002 e R. JELINEK, O princípio da função social da propriedade e sua repercussão sobre o sistema do Código Civil, 2006, pp. 13-23, disponível em: https://www.mprs.mp.br/media/areas/urbanistico/arquivos/rochelle.pdf
+[^9]: Cf. C. AMADO GOMES, “Reflexões (a quente) sobre o princípio da função social da propriedade”, e-Pública, Vol. IV, n.º 3, 2017, disponível em: https://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S2183-184X2017000300002 e R. JELINEK, O princípio da função social da propriedade e sua repercussão sobre o sistema do Código Civil, 2006, pp. 13-23, disponível em: https://www.mprs.mp.br/media/areas/urbanistico/arquivos/rochelle.pdf
 
 [^10]: J. MIRANDA, Manual de Direito Constitucional, Tomo IV, Direitos Fundamentais, 3.ª edição, Coimbra, 2000, pp. 526-529.
 
