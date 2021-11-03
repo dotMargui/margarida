@@ -49,9 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/margaridaopedro/
-- icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+#- icon: cv
+  # icon_pack: ai
+  #link: 
 
 # Uncomment below for Github link
 #- icon: github
