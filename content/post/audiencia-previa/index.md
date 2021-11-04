@@ -1,6 +1,5 @@
 ---
-title: O direito de audiência prévia na jurisprudência do Tribunal de Justiça 
-da União Europeia [pt-pt]
+title: O direito de audiência prévia na jurisprudência do TJUE [pt-pt]
 subtitle: Comentário de jurisprudência acerca do direito a ser ouvido em geral e nos procedimentos compósitos em particular
 
 # Summary for listings and search engines
@@ -24,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Monstera @Pexels'
+  caption: 'Image credit: Mitchell Luo @Pexels'
   focal_point: ""
   placement: 2
   preview_only: false
