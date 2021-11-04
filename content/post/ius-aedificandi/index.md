@@ -3,7 +3,7 @@ title: Jus aedificandi - natureza, aquisição e tutela [pt-pt]
 subtitle: Relatório para a unidade curricular de Direito do Urbanismo (2021)
 
 # Summary for listings and search engines
-summary: Relatório para Direito do Urbanismo sobre o jus aedificandi
+summary: Relatório para a unidade curricular Direito do Urbanismo sobre o jus aedificandi (2021)
 
 # Link this post with a project
 projects: []
