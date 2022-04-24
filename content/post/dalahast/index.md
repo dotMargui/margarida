@@ -1,9 +1,9 @@
 ---
 title: Dalahästar store, Gamla Stan
-subtitle: I'll be adding more content soon!
+subtitle: I'll be adding more content soon.
 
 # Summary for listings and search engines
-summary: I'll be adding more content soon!
+summary: I'll be adding more content soon.
 
 # Link this post with a project
 projects: []
